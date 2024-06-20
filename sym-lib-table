@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EDID_spoofer")(type "KiCad")(uri "${KIPRJMOD}/EDID_spoofer.kicad_sym")(options "")(descr ""))
+)
